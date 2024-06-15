@@ -2,7 +2,7 @@
 
 ## Y tho?
 
-This is a starterkit for using [Streamer.bot(https://streamer.bot)]'s Websocket API to build
+This is a starterkit for using [Streamer.bot](https://streamer.bot)'s Websocket API to build
 your very own GODOTVERLAY!
 
 It includes the base scene and class, StreamerbotSockets, which contains the logic to get
