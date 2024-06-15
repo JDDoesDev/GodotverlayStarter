@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://0j14po0cb1rj"]
+
+[ext_resource type="Script" path="res://Scripts/SB_WS.gd" id="1_omhhi"]
+
+[node name="StreamerBot Connection" type="StreamerbotSocket"]
+script = ExtResource("1_omhhi")
